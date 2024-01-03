@@ -8,3 +8,5 @@ Authors: Emma Hertel; Lars Arendt-Nielsen; Anne Estrup Olesen; Michael Skipper A
 Ethical Approval: North Denmark Region Committee on Health Research Ethics (N-20140077)
 
 Pre-registration: ClinicalTrials.gov (NCT02967744)
+
+Full dataset available upon reasonable request to KKP@hst.aau.dk
